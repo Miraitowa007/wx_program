@@ -1,0 +1,19 @@
+.head{
+  width: 100%;
+  height: 300rpx;
+  background: linear-gradient(to top,#ff7500 0%,#ff461f 100%);
+  display: flex;
+}
+
+.myimg{
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+  overflow: hidden;/*把头像变为圆形*/
+}
+.info_img{
+  border-radius: 50%;
+}
+.info{
+  flex-grow: 1;
+}

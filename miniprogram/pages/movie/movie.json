@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+   "van-button": "vant-weapp/button"
+  },
+  "navigationBarBackgroundColor": "#3d3b4f",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "电影",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": false
+}

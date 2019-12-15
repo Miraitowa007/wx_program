@@ -1,0 +1,43 @@
+.movie{
+  display: flex;
+  border-bottom: 1px solid #dddddd;
+  width: 710rpx;
+  height: 300rpx;
+  padding: 20rpx;
+  position: relative;
+}
+
+.movieimage{
+  width: 200rpx;
+  height:100%;
+  margin-right: 20rpx;
+}
+
+.movieinfo{
+  flex-grow: 1;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+.info-title{
+  font-weight: bold;
+}
+.info-score{
+  color: gold;
+}
+.info-actor{
+  display: inline;
+  margin-right: 2px;
+}
+.info-btn{
+  display: inline-block;
+  width: 100rpx;
+  height: 60rpx;
+  text-align: center;
+  line-height: 60rpx;
+  background-color:#ff7500;
+  color: #ffffff;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 40rpx;
+  right: 60rpx;
+}
